@@ -14,6 +14,8 @@ public class Desktop implements HardWare, Software {
 	@Override
 	public void hardwareResources() {
 		System.out.println(" hardwareResources are 5678 ");
+		System.out.println(" hardwareResources are 5678 ");
+		System.out.println(" hardwareResources are 5678 ");
 	}
 
 	public static void main(String[] args) {
